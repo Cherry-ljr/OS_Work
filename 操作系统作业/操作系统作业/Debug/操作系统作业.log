@@ -1,0 +1,19 @@
+﻿生成启动时间为 2019/1/18 14:27:06。
+     1>项目“F:\作业+实验报告\大三\操作系统课设\操作系统作业\操作系统作业\操作系统作业\操作系统作业.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt os.cpp Process.cpp
+         Process.cpp
+         os.cpp
+     1>c:\program files (x86)\opencv\cv\include\cvcompat.h(784): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>f:\作业+实验报告\大三\操作系统课设\操作系统作业\操作系统作业\操作系统作业\os.cpp(43): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+     1>f:\作业+实验报告\大三\操作系统课设\操作系统作业\操作系统作业\操作系统作业\os.cpp(580): warning C4018: “<”: 有符号/无符号不匹配
+         正在生成代码...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\作业+实验报告\大三\操作系统课设\操作系统作业\操作系统作业\Debug\操作系统作业.exe" /INCREMENTAL /NOLOGO cxcore.lib cv.lib ml.lib cvaux.lib highgui.lib cvcam.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\作业+实验报告\大三\操作系统课设\操作系统作业\操作系统作业\Debug\操作系统作业.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\作业+实验报告\大三\操作系统课设\操作系统作业\操作系统作业\Debug\操作系统作业.lib" /MACHINE:X86 Debug\os.obj
+         Debug\Process.obj
+         操作系统作业.vcxproj -> F:\作业+实验报告\大三\操作系统课设\操作系统作业\操作系统作业\Debug\操作系统作业.exe
+     1>已完成生成项目“F:\作业+实验报告\大三\操作系统课设\操作系统作业\操作系统作业\操作系统作业\操作系统作业.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:08.11
